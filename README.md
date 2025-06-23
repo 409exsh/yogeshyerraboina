@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, HTML/CSS, Git, C++, AI basics**
 - 📫 How to reach me: **yogeshyerraboina@gmail.com**
-- ⚡ Fun fact: I love exploring new tech and building mini projects on weekends!
 
 ---
 
