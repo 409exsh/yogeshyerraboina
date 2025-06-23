@@ -26,7 +26,10 @@
 
 ### 📈 GitHub Stats
 
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshyerraboina&show_icons=true&theme=github_dark)
+### 📈 GitHub Stats
+
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=409exsh&show_icons=true&theme=github_dark)
+
 
 ---
 
